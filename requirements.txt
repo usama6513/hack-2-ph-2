@@ -1,0 +1,6 @@
+# Requirements for Todo Console Application - Phase I
+# No external dependencies needed as the application uses only built-in Python features
+# This file is maintained for project completeness and potential future dependencies
+
+# Testing framework required per tasks
+pytest==8.2.2
